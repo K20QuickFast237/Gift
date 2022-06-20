@@ -10,16 +10,11 @@ Proposer aux utilisateurs un ensemble de packages de cadeaux de cyble et prix di
 ## La continuation:
 
 ### Proposer aux utilisateurs un moyen de:
-#### Accéder à la platteforme
-#### Choisir une catégorie de cadeau à offrir.  exple: Anniversaire, Mariage
-
-#### Choisir un package de cadeau. exple: package mistère, package personalisé   (separation seulement pour la logique) (avec une couleure associee)
-#### Choisir un modèle de package. exple: minimaliste, particulier, extravagant  (separation seulement pour la logique) (avec une couleure associee)
-
-#### Choisir un package de cadeau. exple: package mistère minimaliste, package mistère particulier, package mistère extravagant, package personalisé minimaliste, package personalisé particulier, package personalisé extravagant
-
-#### Définir une  
-#### 
-#### 
-#### 
++ Accéder à la platteforme
++ Choisir une catégorie de cadeau à offrir.  exple: Anniversaire, Mariage
++ Choisir un package de cadeau. exple: package mistère, package personalisé   (separation seulement pour la logique) (avec une couleure associee)
++ Choisir un modèle de package. exple: minimaliste, particulier, extravagant  (separation seulement pour la logique) (avec une couleure associee)
++ Choisir un package de cadeau. exple: package mistère minimaliste, package mistère particulier, package mistère extravagant, package personalisé minimaliste, package personalisé particulier, package personalisé extravagant
++ Définir une
+ 
 
